@@ -1,0 +1,64 @@
+[
+    {
+        "title": "Хустина УПС",
+        "image": "hustuna.png",
+        "oldPrice": 50,
+        "newPrice": 30
+    },
+
+    {
+        "title": "Обручик для хустини",
+        "image": "image 6.png",
+        "oldPrice": 25,
+        "newPrice": 15
+    },
+
+    {
+        "title": "Спальник",
+        "image": "image 7.png",
+        "oldPrice": 230,
+        "newPrice": 200
+    },
+
+    {
+        "title": "Свисток",
+        "image": "image 8.png",
+        "oldPrice": 18,
+        "newPrice": 9
+    },
+
+    {
+        "title": "Намет",
+        "image": "image 9.png",
+        "oldPrice": 1260,
+        "newPrice": 1150
+    },
+
+    {
+        "title": "Спрей від комарів",
+        "image": "image 10.png",
+        "oldPrice": 55,
+        "newPrice": 35
+    },
+
+    {
+        "title": "Відзначка куреня УПЮ",
+        "image": "image 11.png",
+        "oldPrice": 20,
+        "newPrice": 10
+    },
+
+    {
+        "title": "Компас",
+        "image": "image 12 (1).png",
+        "oldPrice": 100,
+        "newPrice": 40
+    },
+
+    {
+        "title": "Чоловічий однострій",
+        "image": "image 13.png",
+        "oldPrice": 990,
+        "newPrice": 900
+    }
+]
